@@ -21,9 +21,6 @@ object alcaucil {
 	}
 }
 
-/*
- * el sorgo da 9 joules por gramo
- */ 
 object sorgo {
 	method energiaPorGramo(){
 		return 9
